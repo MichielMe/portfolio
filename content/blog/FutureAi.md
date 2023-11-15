@@ -4,6 +4,7 @@ publishedAt: 2023-03-10 17:00:00
 author: "Your Name"
 categories: ["Technology", "AI"]
 tags: ["Artificial Intelligence", "Ethics", "Future Trends"]
+toc: true
 ---
 
 # Navigating the Future of AI: Balancing Benefits and Risks
