@@ -1,18 +1,5 @@
 <template>
-  <div>
-    <h1>About page</h1>
-  </div>
-  <div>
-    <button @click="enableCustomLayout">Update</button>
-  </div>
+  <article class="prose dark:prose-invert">
+    <ContentDoc path="/about" />
+  </article>
 </template>
-
-<script setup>
-  useHead({
-    title: 'About'
-  })
-</script>
-
-<style scoped>
-
-</style>
