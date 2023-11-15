@@ -3,7 +3,7 @@
     <header class="flex justify-between items-center mt-5">
       <div class="flex items-center space-x-12">
         <div>
-          <NuxtLink to="/" class="text-xl font-semibold p-2 hover:bg-gray-200">Michiel</NuxtLink>
+          <NuxtLink to="/" class="text-xl font-semibold p-2 hover:bg-gray-200 dark:hover:text-gray-200">Michiel</NuxtLink>
         </div>
 
         <Menu />
